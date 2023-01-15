@@ -11,7 +11,6 @@ let binarySearch = (arr, el) => {
             return middle;
         }
     }
-
     return -1;
 };
 
